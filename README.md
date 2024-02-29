@@ -1,5 +1,5 @@
 # Happy-Finance-Journey
-이 리포지토리는 기본적인 금융 개념과 이론을 이해하고자 만들었습니다, 키워드를 남에게 알기 쉽게 설명할 수 있는가를 목표로 합니다. 간단하게 키워드 리스트로 작성될것이고 상세한 정리나 개인적인 의견들은 [개인 위키](https://www.jayfreemandev.tech/)에 올릴거고 상세히 작성되야할 자료가 있는경우 추가적인 작업이 있을 예정입니다.
+이 리포지토리는 기본적인 금융 개념과 이론을 이해하고자 만들었습니다, 키워드를 남에게 알기 쉽게 설명할 수 있는가를 목표로 합니다. 간단하게 키워드 리스트로 작성될것이고 상세한 정리나 개인적인 의견들은 [개인 위키](https://www.jayfreemandev.tech/)에 기록합니다. 
 
 1. 채권 가격 결정 
 2. 주식 평가 
@@ -20,28 +20,36 @@
 18. 스프레드
 19. 마진
 
-
 <hr>
 
 ### 추천 도서
-"Principles of Corporate Finance" by Richard A. Brealey, Stewart C. Myers, and Franklin Allen
-- 기업 금융의 기본 원칙과 이론을 다루는 고전
+1. **A Random Walk Down Wall Street**
+   - **번역본 제목**: 랜덤워크
+   - **저자**: Burton G. Malkiel  
 
-"Options, Futures, and Other Derivatives" by John C. Hull
-- 파생상품 시장과 관련된 이론과 실무를 다루며, 위험 관리 전략에 대해서도 설명합니다.
+프린스턴 출신 경제학자의 책이다. 세금, 비용 통제나 무작위에 관한 기본적인 내용들인데 스캠 목차에 대해서는 동의하지않는다. 
 
-"A Random Walk Down Wall Street" by Burton G. Malkiel
-- 효율적 시장 가설
+2. **Options, Futures, and Other Derivatives**
+   - **저자**: John C. Hull  
+
+존 헐이 토론토 대학 rotman에서 직접 수업하고 가르치는데 사용하는 교재,   
+선물 시장에 대한 내용들이고 번역본은 오탈자가 너무 많다고 지적받아서 원서로 사야한다.
+
+3. **Principles of Corporate Finance" by Richard A. Brealey**
+   - **저자**: Stewart C. Myers  
+   - **주요주제**: 기업 금융의 기본 원칙과 이론을 다루는 고전
+
+
 <hr>
 
 ### 추천 글 및 영상
-1. Aswath Damodaran 유튜브 채널
-- NYU 교수이자 금융학 석학, 좋은 내용이 너무 많음
+1. Aswath Damodaran 유튜브 채널  
+NYU 교수이자 금융학 석학, 좋은 내용이 너무 많음
 
-2. Khan Academy Finance and Capital Markets
-- 다양한 금융 이론과 개념을 쉽게 설명하는 교육 콘텐츠를 제공합니다.
+2. Khan Academy Finance and Capital Markets  
+다양한 금융 이론과 개념을 쉽게 설명하는 교육 콘텐츠를 제공합니다.
 
-3. Wall Street 저널
-- 골드만삭스 도노반 형님이 매일 읽으라함
+3. Wall Street 저널  
+골드만삭스 도노반 형님이 매일 읽으라함
 
 4. Bloomberg Markets and Finance
