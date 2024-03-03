@@ -8,6 +8,7 @@
 4. 포트폴리오 이론 
 5. 효율적 시장 가설
 6. 옵션 가격 결정 이론 
+   - 콜옵션
 8. 파생상품 (Derivatives)
 9. 헤지 전략
 10. 유동성
@@ -20,7 +21,6 @@
 17. 마켓 메이커
 18. 스프레드
 19. 마진
-
 <hr>
 
 ### 추천 도서
@@ -44,13 +44,10 @@
 <hr>
 
 ### 추천 글 및 영상
-1. Aswath Damodaran 유튜브 채널  
+1. [Aswath Damodaran](https://www.youtube.com/@AswathDamodaranonValuation)  
 NYU 교수이자 금융학 석학, 좋은 내용이 너무 많음
 
-2. Khan Academy Finance and Capital Markets  
+2. [Khan Academy Finance and Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial)  
 다양한 금융 이론과 개념을 쉽게 설명하는 교육 콘텐츠를 제공합니다.
-
-3. Wall Street 저널  
-골드만삭스 도노반 형님이 매일 읽으라함
-
-4. Bloomberg Markets and Finance
+3. [Wall Street](https://www.wsj.com/finance?mod=nav_top_section)
+4. [Bloomberg Markets](https://www.bloomberg.com/markets)
