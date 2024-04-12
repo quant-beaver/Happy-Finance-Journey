@@ -51,3 +51,4 @@ NYU 교수이자 금융학 석학, 좋은 내용이 너무 많음
 다양한 금융 이론과 개념을 쉽게 설명하는 교육 콘텐츠를 제공합니다.
 3. [Wall Street](https://www.wsj.com/finance?mod=nav_top_section)
 4. [Bloomberg Markets](https://www.bloomberg.com/markets)
+https://www.reddit.com/r/investing/wiki/readinglist/
